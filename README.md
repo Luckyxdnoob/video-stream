@@ -1,3 +1,6 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Luckyxdnoob/video-stream)
+
+
 <p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Video Stream is an Open-Source Telegram Bot project that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
@@ -72,7 +75,7 @@
 ## Heroku Deployment 💜
 
 <h3 align="center">Click The button below for deploy your bot to Heroku, Note: Set the app country to Europe (it will help to make the bot much faster and stable).</h3>
-<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" 
 
 📝 [NOTE]: Remember to fork this repo first then you can deploy this repo, if not your deployment proccess will failed that because Heroku has blacklisted this repo !
 
